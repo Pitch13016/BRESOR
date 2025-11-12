@@ -1,6 +1,3 @@
-Salut moi c'est Bresor rejoin mon serveur de développement je suis dispo H22/24 7J/7 
+Voici ma base Template sous l'inventaire OX_inventory pour FiveM sous le framework ESX Legacy 
 
-https://discord.gg/T4cmunNec8
-
-Je suis disponible aussi en mp mes que si vous voulez me commandez quelques choses. 
-Mon discord : BRΞSOR ᵞᶻ#0917
+Rejoignez notre Discord : https://discord.gg/DVTtcXf3BF. En cas de problème, merci de venir sur le discord pour demandé de l'aide du support seras donnés
